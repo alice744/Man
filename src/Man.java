@@ -1,8 +1,18 @@
 public class Man {
-    private String  name;
-    private int old;
-    private String gender;
-    private int weight;
+    String  Name;
+    String Gender;
+    int Age;
+    int Weight;
+
+    public String Name(){
+       return Name = "abcd";
+    }
+    public int Age(){
+        return Age=42;
+    }
+    public int Weight(){
+        return Weight=351;
+    }
 }
 
 
